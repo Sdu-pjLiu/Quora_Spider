@@ -1,0 +1,73 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+logs/
+
+# Quora 爬虫相关文件
+quora_state.json
+quora_*.json
+*.json.bak
+
+# 临时文件
+temp/
+tmp/
+*.tmp
+*.temp
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 代理和配置
+proxy_config.json
+secrets.json
+.env
+
+# 浏览器缓存
+.playwright/
+browser_data/
+
+# 测试文件
+test_*.py
+*_test.py
+
+# 结果文件和用户缓存
+result/
+quora_state.json
+
